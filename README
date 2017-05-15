@@ -1,3 +1,7 @@
+This is a charting/TA/trading front-end from a seemingly dead project QTStalker on SourceForge. I am attempting to examine it to see if it fits my needs as a front-end to a trading system I am building. Stay tuned!
+
+Original README:
+
 All the documentation can be found by firing up your browser with docs/toc.html
 
 See docs/install.html for pre-requisites and installation instructions.
